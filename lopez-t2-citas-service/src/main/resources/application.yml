@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: citas-service
+  security:
+    oauth2:
+      resource-server:
+        jwt:
+          secret-key: laclavemasseguraqueexiste123!!!@@@#$PruebA
+
+
+
